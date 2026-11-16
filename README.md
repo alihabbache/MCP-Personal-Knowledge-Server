@@ -44,8 +44,8 @@ The server only finds and returns text. The summarising is done by the model on 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/alihabbache/Personal-Knowledge-MCP-Server.git
-cd Personal-Knowledge-MCP-Server
+git clone https://alihabbache.github.io/MCP-Personal-Knowledge-Server.git
+cd MCP-Personal-Knowledge-Server
 
 # 2. Install dependencies
 npm install
